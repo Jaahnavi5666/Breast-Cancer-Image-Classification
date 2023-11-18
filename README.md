@@ -7,4 +7,5 @@ I have uploaded a single.ipynb file containing the complete code with proper com
 * epochs = 10
 * batch size = 32
 * class mode for training = binary
+
 Output obtained for the 14 test images (Predicted labels): [[1],[0],[0],[1],[1],[0],[0],[0],[1],[1],[0],[0],[1],[0]]
